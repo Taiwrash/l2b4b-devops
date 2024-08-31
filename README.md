@@ -1,2 +1,4 @@
 # l2b4b-devops
-This is to test how this works.
+
+No motivation for you today, If you want to give up, give up!
+
