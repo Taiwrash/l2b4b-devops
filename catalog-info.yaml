@@ -16,6 +16,7 @@ metadata:
   annotations:
     github.com/project-slug: Taiwrash/2b4b-devops
     lighthouse.com/website-url: https://backstage.io
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: service
   owner: development
