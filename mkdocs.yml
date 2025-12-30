@@ -5,9 +5,6 @@ edit_uri: edit/main/docs
 
 plugins:
   - techdocs-core
-  - redirects:
-      redirect_maps:
-        'index.md': 'docs/index.md'
 
 nav:
   - Overview:
