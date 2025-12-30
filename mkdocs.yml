@@ -1,0 +1,14 @@
+site_name: 'l2b4b'
+site_description: 'Main documentation for l2b4b features and framework APIs'
+repo_url: https://github.com/Taiwrash/l2b4b-devops
+edit_uri: edit/main/docs
+
+plugins:
+  - techdocs-core
+  - redirects:
+      redirect_maps:
+        'index.md': 'docs/index.md'
+
+nav:
+  - Overview:
+      - What is l2b4b?: 'docs/index.md'
