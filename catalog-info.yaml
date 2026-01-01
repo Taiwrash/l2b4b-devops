@@ -14,7 +14,7 @@ metadata:
     - title: Discord Chat
       url: https://discord.com/invite/EBHEGzX
   annotations:
-    github.com/project-slug: Taiwrash/${{values.name}}
+    github.com/project-slug: Taiwrash/test-l2b4b
     lighthouse.com/website-url: https://backstage.io
     backstage.io/techdocs-ref: dir:.
 spec:
