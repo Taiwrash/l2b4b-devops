@@ -19,5 +19,5 @@ metadata:
     backstage.io/techdocs-ref: dir:.
 spec:
   type: service
-  owner: development
+  owner: dev
   lifecycle: experimental
